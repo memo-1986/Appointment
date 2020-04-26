@@ -1,0 +1,5 @@
+C:\Users\HP\source\Github\Appointment\Appointment\Appointment\obj\Debug\netcoreapp3.1\Appointment.csprojAssemblyReference.cache
+C:\Users\HP\source\Github\Appointment\Appointment\Appointment\obj\Debug\netcoreapp3.1\Appointment.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\Github\Appointment\Appointment\Appointment\obj\Debug\netcoreapp3.1\Appointment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\Github\Appointment\Appointment\Appointment\obj\Debug\netcoreapp3.1\Appointment.AssemblyInfoInputs.cache
+C:\Users\HP\source\Github\Appointment\Appointment\Appointment\obj\Debug\netcoreapp3.1\Appointment.AssemblyInfo.cs
